@@ -1,0 +1,28 @@
+name: dr eduardo villanueva
+favicon: null
+layout_spectrum: 0.05095288041047752
+typography_spectrum: 0.17322643497027457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.22258460707962513
+  lightness: 0.25184364640153944
+  saturation: 0.7709256217349321
+  rhythmicContrast: 0.0877203419804573
+purpose: []
